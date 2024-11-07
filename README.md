@@ -1,2 +1,2 @@
 # MI-RNN
-This repository is based on the article titled ‘Revising the Structure of Recurrent Neural Networks to Eliminate Numerical Derivatives in Forming Physics-Informed Loss Terms with Respect to Time.
+This repository is based on the article titled ‘A Novel Recurrent Neural Network Structure for Eliminating Numerical Temporal Derivatives in Loss Function Formulation to Solve Transient Problems in Physics Informed Machine Learning. The source code will be available soon. Please follow our repository by watching and liking it. The archived version is available at this address. https://arxiv.org/abs/2409.10388
